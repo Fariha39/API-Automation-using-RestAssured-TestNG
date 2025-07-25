@@ -25,6 +25,9 @@ This project automates API testing for [Daily Finance](https://dailyfinance.road
 - *Generate Allure report:*
    - allure serve allure-results 
   
+## Test Case Link
+
+   - [Click here for Positive & Negative Test cases](https://docs.google.com/spreadsheets/d/1fZM4tOQbZhE1w_9hFhAuvZiTKcZXUdOt/edit?usp=sharing&ouid=109576212916114956751&rtpof=true&sd=true) 
 
 
 ## Record of Full Automation 
